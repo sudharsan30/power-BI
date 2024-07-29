@@ -71,10 +71,7 @@ The project includes the following Power BI visualizations:
 5. **Casualties by Road Type**:
    - A bar chart showing the distribution of casualties by road type for the current year.
 
-6. **Casualties by Area/Location and Time of Day**:
-   - A heatmap or scatter plot showing casualties by area/location and whether they occurred during the day or night.
-
-7. **Total Casualties and Accidents by Location**:
+6. **Total Casualties and Accidents by Location**:
    - A map visualization highlighting the number of casualties and accidents by location for the current year.
 
 ## Insights
